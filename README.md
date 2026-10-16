@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Sunnyside-agency-landing-page/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Sunnyside-agency-landing-page/)
 
 ## My process
 
